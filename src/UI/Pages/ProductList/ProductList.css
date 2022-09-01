@@ -1,0 +1,10 @@
+.ct-products-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  flex-grow: 1;
+  min-height: 400px;
+}
+.ct-products-list-title {
+  margin: "20px";
+}

@@ -1,0 +1,36 @@
+.btn-orange {
+  /* margin-right: 30px; */
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  background-color: rgb(212, 153, 41);
+  width: 200px;
+  text-align: center;
+  border-width: 0;
+}
+.btn-blue {
+  margin-right: 30px;
+  font-size: 16px;
+  border-radius: 30px;
+  padding: 10px;
+  width: 200px;
+  color: white;
+  background-color: rgb(3, 3, 66);
+  text-align: center;
+  border-width: 0;
+}
+.btn-yellow {
+  margin-right: 30px;
+  font-size: 16px;
+  border-radius: 30px;
+  padding: 10px;
+  color: white;
+  background-color: rgb(228, 89, 55);
+  width: 200px;
+  text-align: center;
+  border-width: 0;
+}
+.item span {
+  font-weight: 600;
+}

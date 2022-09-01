@@ -1,0 +1,39 @@
+.ct-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: "center";
+  justify-items: center;
+  background-color: white;
+  height: 70px;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px 3px #888888;
+}
+.login-img {
+  padding: "20px";
+  cursor: "pointer";
+  height: 36px;
+}
+.login-text {
+  font-size: 24px;
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 5px;
+}
+.login-row {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.count {
+  color: deeppink;
+  font-size: 14px;
+  position: absolute;
+  right: 3.5%;
+  top: -0.2%;
+  font-weight: 700;
+  background-color: orange;
+  padding: 2px;
+  border-radius: 20px;
+}
